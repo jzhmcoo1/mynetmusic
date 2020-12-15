@@ -14,4 +14,4 @@ $RECYCLE.BIN/
 node_modules/
 
 # 后端配置接口
-/utils/config.js
+utils/config.js
